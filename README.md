@@ -1,0 +1,1 @@
+Il s'agit d'un exercice où je devais réalisé mon site CV uniquement en pure CSS et sans utilisé de classe ni d'ID pour me familiarisé avec les sélecteurs CSS. Un site cv réel est en cours de réalisation.
